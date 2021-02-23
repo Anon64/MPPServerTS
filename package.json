@@ -1,0 +1,27 @@
+{
+  "name": "mppserverts",
+  "version": "1.0.0",
+  "description": "I try to make my own MPP server from scratch in TypeScript to familiarize myself in the langauge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anon64/MPPServerTS.git"
+  },
+  "keywords": [],
+  "author": "Anon64",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anon64/MPPServerTS/issues"
+  },
+  "homepage": "https://github.com/Anon64/MPPServerTS#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "typescript": "^4.1.5"
+  },
+  "dependencies": {
+    "@types/ws": "^7.4.0"
+  }
+}
