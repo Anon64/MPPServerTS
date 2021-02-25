@@ -22,6 +22,8 @@
     "typescript": "^4.1.5"
   },
   "dependencies": {
-    "@types/ws": "^7.4.0"
+    "@types/sha1": "^1.1.2",
+    "@types/ws": "^7.4.0",
+    "sha1": "^1.1.1"
   }
 }
