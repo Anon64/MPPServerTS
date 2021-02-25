@@ -1,2 +1,2 @@
 # MPPServerTS
-I try to make my own MPP server in TypeScript to familiarize myself in the langauge.
+MPP server in TypeScript, based heavily on [multiplayer-piano-server](https://github.com/FireController1847/vfd-multiplayer-piano)
